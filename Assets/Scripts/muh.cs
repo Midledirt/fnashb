@@ -10,9 +10,11 @@ public class muh : MonoBehaviour
         
     }
 
+    int i;
+
     // Update is called once per frame
     void Update()
     {
-        
+        print(i++);
     }
 }
